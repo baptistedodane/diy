@@ -3,7 +3,7 @@ body {
   font-size: 12px;
   font-weight: 400;
   background-color: #fff;
-  width: 960px;
+  width: 1200px;
   height: 700px;
   margin-top: 10px;
 }
@@ -16,6 +16,48 @@ body {
 #sidebar {
   float: right;
   width: 100px;
+}
+
+#navbar {
+  float: right;
+  width: 200px;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+.link {
+  width: 170px;
+  height: 40px;
+  background-color: #cecece;
+  margin-top: 20px;
+  text-align: center;
+  line-height: 38px;
+  font-weight:800;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+#diy {
+  background-color: #e15759;
+}
+
+#fashion {
+  background-color: #7f45d6;
+}
+
+#subscription {
+  background-color: #edc948;
+}
+
+#mix {
+  background-color: #cecece;
+}
+
+#global {
+  background-color: #9bd6d1;
 }
 
 #sequence {
